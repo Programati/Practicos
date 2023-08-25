@@ -1,0 +1,17 @@
+E:\Curso C#\Practico1\Practico1\bin\Debug\net7.0-windows\Practico1.exe
+E:\Curso C#\Practico1\Practico1\bin\Debug\net7.0-windows\Practico1.deps.json
+E:\Curso C#\Practico1\Practico1\bin\Debug\net7.0-windows\Practico1.runtimeconfig.json
+E:\Curso C#\Practico1\Practico1\bin\Debug\net7.0-windows\Practico1.dll
+E:\Curso C#\Practico1\Practico1\bin\Debug\net7.0-windows\Practico1.pdb
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\Practico1.vbproj.AssemblyReference.cache
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\Practico1.Form1.resources
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\Practico1.vbproj.GenerateResource.cache
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\Practico1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\Practico1.AssemblyInfoInputs.cache
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\Practico1.AssemblyInfo.vb
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\Practico1.vbproj.CoreCompileInputs.cache
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\Practico1.dll
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\refint\Practico1.dll
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\Practico1.pdb
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\Practico1.genruntimeconfig.cache
+E:\Curso C#\Practico1\Practico1\obj\Debug\net7.0-windows\ref\Practico1.dll
