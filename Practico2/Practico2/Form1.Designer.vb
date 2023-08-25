@@ -30,9 +30,8 @@ Partial Class Form1
         LModificar.ForeColor = Color.Red
         LModificar.Location = New Point(161, 48)
         LModificar.Name = "LModificar"
-        LModificar.Size = New Size(58, 15)
+        LModificar.Size = New Size(0, 15)
         LModificar.TabIndex = 1
-        LModificar.Text = "Modificar"
         ' 
         ' LNombre
         ' 
